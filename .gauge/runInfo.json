@@ -1,0 +1,14 @@
+{
+	"Args": [
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console"
+	],
+	"FailedItems": [
+		"specs/Facebook.spec:14"
+	],
+	"Items": [
+		"/Users/nagendraa/Nagendra/FacebookMobileAppSimple/specs/Facebook.spec"
+	]
+}
